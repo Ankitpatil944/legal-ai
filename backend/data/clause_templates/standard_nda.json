@@ -1,0 +1,16 @@
+{
+    "name": "Standard NDA",
+    "type": "confidentiality",
+    "template_text": "The Receiving Party shall maintain the confidentiality of the Confidential Information and shall not disclose such Confidential Information to any third party without the prior written consent of the Disclosing Party.",
+    "required_elements": [
+        "confidentiality obligation",
+        "disclosure restriction",
+        "consent requirement"
+    ],
+    "optional_elements": [
+        "time period",
+        "exceptions",
+        "return of information"
+    ],
+    "usage_guidelines": "Use for standard non-disclosure agreements between parties."
+} 
